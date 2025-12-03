@@ -1,7 +1,7 @@
 '''
 Assignment 23
 ==========================================================
-Create and Inventory Search program in Python.
+Create an interactive inventory management program in Python.
 Use object-oriented programming. 
 
 '''
